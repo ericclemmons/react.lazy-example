@@ -27,7 +27,9 @@ _Available at https://react-lazy-example-qmehmnudqu.now.sh/_
 
 > <Demo />
 
-### Local Development
+---
+
+## Local Development
 
 1. Clone this repo.
 1. Next, we need a custom build of React with Suspense enabled:
