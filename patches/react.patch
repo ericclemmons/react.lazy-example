@@ -1,0 +1,12 @@
+diff --git a/vendor/react/packages/shared/ReactFeatureFlags.js b/vendor/react/packages/shared/ReactFeatureFlags.js
+index 3c92b53e5..1caae90ce 100644
+--- a/vendor/react/packages/shared/ReactFeatureFlags.js
++++ b/vendor/react/packages/shared/ReactFeatureFlags.js
+@@ -16,7 +16,7 @@ export const enableUserTimingAPI = __DEV__;
+ // render phase
+ export const enableGetDerivedStateFromCatch = false;
+ // Suspense
+-export const enableSuspense = false;
++export const enableSuspense = true;
+ // Helps identify side effects in begin-phase lifecycle hooks and setState reducers:
+ export const debugRenderPhaseSideEffects = false;
