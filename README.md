@@ -1,8 +1,9 @@
 ---
 
 import Demo from "./src/components/Demo"
+import Layout from "./src/components/Layout"
 
-export default ({ children }) => <div className="container">{children}</div>
+export default Layout
 
 ---
 

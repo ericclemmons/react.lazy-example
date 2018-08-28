@@ -1,5 +1,6 @@
 {
-  "name": "react-lazy-example",
+  "name": "react.lazy-example",
+  "description": "Testing out React.lazy (facebook/react/pull/13398)",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Eric Clemmons <eric@smarterspam.com>",
