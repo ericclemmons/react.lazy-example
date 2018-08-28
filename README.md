@@ -23,6 +23,8 @@ async function Repos({ user }) {
 
 ## Demo
 
+_Available at https://react-lazy-example-qmehmnudqu.now.sh/_
+
 > <Demo />
 
 ### Local Development
