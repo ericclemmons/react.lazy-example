@@ -10,7 +10,7 @@ export default Layout
 # `React.lazy` Example
 
 After [@acdlite](https://github.com/acdlite) merged https://github.com/facebook/react/pull/13398,
-I was curiuos if it would be possible to render an **async component** like:
+I was curious if it would be possible to render an **async component** like:
 
 ```jsx
 async function Repos({ user }) {
